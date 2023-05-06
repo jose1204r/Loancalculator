@@ -3,8 +3,9 @@
 
 // Write your JavaScript code.
 $(document).ready(function () {
-    $('#RefreshPage').click(function () {
-        history.go(new.document);
+    $('#reset').click(function () {
+        alert("Are you sure want to reset data!")
+        
     });
 });
 

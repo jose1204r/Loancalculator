@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wQEq8YG/Dujj6h48t5nGopKH0hvP6YalA/SsHDaFTT2RJw+s1+/WSwIy853PEcG2uHKgrR18eMYYcdRUiI7b2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jrodr\\OneDrive\\Documents\\Repo\\MorgageCalculator\\MorgageCalculator\\MorgageCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jrodr\\.nuget\\packages\\bootstrap\\5.2.3\\bootstrap.5.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -77,12 +77,12 @@ body {
     color: #2B404F;
 }
 
-#loanBreakDown {
+#loanbreakDown {
     text-align: center;
 }
 
 #tableheader {
-    background-color: #2B404F;
+    background-color:cadetblue;
 }
 
 #totalcost{
